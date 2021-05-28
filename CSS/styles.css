@@ -114,6 +114,8 @@ img {
 		margin-bottom: 0;
 		order: 1;
 		background-position: right;
+		border-top-left-radius: 0;
+		border-bottom-right-radius: .5rem;
 	}
 	
 	ul {
