@@ -35,7 +35,7 @@ https://prnt.sc/13hxsxt
 ### Links
 
 - Solution URL: [https://github.com/cotybro/Stats-Preview-Card.git]
-- Live Site URL: [https://cotybro.github.io/]
+- Live Site URL: [https://stats-preview-card-q67w49kp7-cotybro.vercel.app/]
 
 ### Built with
 
