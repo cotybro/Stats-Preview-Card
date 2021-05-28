@@ -27,6 +27,7 @@ ul {
 	margin-right: .75rem;
 }
 
+/*
 img {
 	display: block;
 	width: 100%;
@@ -36,8 +37,17 @@ img {
 	border-top-left-radius: .5rem;
 	border-top-right-radius: .5rem;
  }
+*/
 
-.img-wrapper {
+.img-wrapper {	
+	height: 240px;
+	border-top-right-radius: .5rem;
+	border-top-left-radius: .5em;
+	background-blend-mode: screen;
+	background-image: url("../images/image-header-desktop.jpg");
+	background-color: hsla(277,100%,15%,1.00);
+	background-size: cover;
+	background-position: bottom;
 	margin-bottom: 2rem;
 }
 
@@ -100,15 +110,10 @@ img {
 		
 	.img-wrapper {
 		width: 50%;
+		height: auto;
 		margin-bottom: 0;
 		order: 1;
-	}
-	
-	img {
-		border-top-left-radius: 0;
-		border-bottom-right-radius: .5rem;
-		object-fit: cover;
-		object-position: right;
+		background-position: right;
 	}
 	
 	ul {
