@@ -26,11 +26,11 @@ Users should be able to:
 ### Screenshot
 Desktop:
 
-https://prnt.sc/13i2j6o
+https://prnt.sc/13i3dkk
 
 Mobile:
 
-https://prnt.sc/13i2hgu
+https://prnt.sc/13i3eis
 
 ### Links
 
