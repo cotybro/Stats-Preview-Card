@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![https://prnt.sc/13hxet3](./screenshot.jpg)
+https://prnt.sc/13hxet3
 
 ### Links
 
