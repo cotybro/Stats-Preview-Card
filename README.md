@@ -26,7 +26,7 @@ Users should be able to:
 ### Screenshot
 Desktop:
 
-https://prnt.sc/13i2gsl
+https://prnt.sc/13i2j6o
 
 Mobile:
 
